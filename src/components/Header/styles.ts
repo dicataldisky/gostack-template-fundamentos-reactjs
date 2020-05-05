@@ -28,7 +28,8 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &:hover {
-          opacity: 0.6;
+          border-bottom: solid 2px;
+          border-color: #ff872c;
         }
       }
     }
